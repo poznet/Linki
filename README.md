@@ -2,7 +2,7 @@
 Ciekawe Linki
 
 
-# Darmowe Szkolenia z Certyfikatami 
+# Darmowe Szkolenia z Certyfikatami (badge na LinkedIn)
 - [AWS Cloud](https://explore.skillbuilder.aws/learn/learning-plans/82/cloud-essentials-learning-plan)
 - [Linux Fundation - Intruoduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
 - [Linux Fundation - Introduction to Cloud Infrastructure](https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/)
